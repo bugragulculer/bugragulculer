@@ -8,7 +8,7 @@ I build thoughtful software products from **idea → interface → architecture 
 
 Currently building products at **Approni**, with a focus on SaaS, mobile, AI-assisted workflows, fitness, and tools that make complicated work feel simple.
 
-[Website](https://bugragulculer.com) · [LinkedIn](YOUR_LINKEDIN_URL) · [Approni](https://approni.co)
+[Website](https://bugragulculer.com) · [LinkedIn]((https://www.linkedin.com/in/bugrahangulculer/)) · [Approni](https://approni.co)
 
 </div>
 
@@ -48,16 +48,6 @@ Sessions, clients, packages, subscriptions, payments, trainer operations, analyt
 Working across product strategy, mobile architecture, social mechanics, achievements, journeys, and the systems behind a polished consumer experience.
 
 `React Native` `Expo` `TypeScript` `PostgreSQL`
-
----
-
-### Clan Running
-
-**Adaptive running and training platform.**
-
-Building training-plan generation and adaptation systems that turn athlete context, training history, feedback, and safety constraints into structured plans.
-
-`TypeScript` `Node.js` `PostgreSQL` `React Native`
 
 ---
 
