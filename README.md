@@ -8,7 +8,7 @@ I build thoughtful software products from **idea → interface → architecture 
 
 Currently building products at **Approni**, with a focus on SaaS, mobile, AI-assisted workflows, fitness, and tools that make complicated work feel simple.
 
-[Website](https://bugragulculer.com) · [LinkedIn]((https://www.linkedin.com/in/bugrahangulculer/)) · [Approni](https://approni.co)
+[Website](https://bugragulculer.com) · [LinkedIn](https://www.linkedin.com/in/bugrahangulculer/) · [Approni](https://approni.co)
 
 </div>
 
