@@ -1,6 +1,6 @@
 <div align="center">
 
-# Buğra Gülçüler
+# Buğra Gülcüler
 
 ### Software Engineer · Product Builder
 
